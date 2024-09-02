@@ -76,4 +76,4 @@ Additional security features, such as a password manager or one-time password ge
 
 License
 
-This project is licensed under the MIT License - see the
+This project is licensed under the MIT License
